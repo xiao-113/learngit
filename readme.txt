@@ -1,1 +1,1 @@
-Creating a new branch is quick & safe.
+Creating a new branch is quick and simple.
